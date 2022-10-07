@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mudda 'N' Law 100% Trini Pimento",
+    "price": 8.99,
+    "size": "350mL",
+    "description": "Mudda 'N' Law 100% Trini Pimento",
+    "category": "Herbs, Spices & Seasonings",
+    "inStock": true
+  },
+  {
+    "name": "Chief Curry Powder ",
+    "price": 3.05,
+    "size": "230g",
+    "description": "Chief Curry Powder",
+    "category": "Herbs, Spices & Seasonings",
+    "inStock": true
+  },
+  {
+    "name": "JGM Five Spice Powder",
+    "price": 1.75,
+    "size": "15g",
+    "description": "JGM Five Spice Powder",
+    "category": "Herbs, Spices & Seasonings",
+    "inStock": false
+  },
+  {
+    "name": "Matouk's Calypso Sauce",
+    "price": 2.49,
+    "size": "330ml",
+    "description": "Matouk's Calypso Sauce",
+    "category": "Condiments",
+    "inStock": true
+  },
+  {
+    "name": "Chief Mango Amchar",
+    "price": 3.69,
+    "size": "355g",
+    "description": "Pickled spicy mango in chunks",
+    "category": "Condiments",
+    "inStock": true
+  },
+  {
+    "name": "Swiss Tomato Ketchup",
+    "price": 3.99,
+    "size": "750ml",
+    "description": "Swiss Tomato Ketchup",
+    "category": "Condiments",
+    "inStock": false
+  },
+  {
+    "name": "Instant Callaloo",
+    "price": 4.69,
+    "size": "750ml",
+    "description": "This signature Caribbean dish is a must have for your meal. Ingredients include dasheen bush, coconut milk, pumpkin, ochro, pimento, cilantro and other delicious local Trini products. This Instant Callaloo take just 1 minute preparation time! ",
+    "category": "Pantry",
+    "inStock": true
+  },
+  {
+    "name": "Promasa",
+    "price": 4.54,
+    "size": "5.99",
+    "description": "100% Yellow Corn Flour",
+    "category": "Pantry",
+    "inStock": true
+  },
+  {
+    "name": "SFM Enterprises Accra Mix",
+    "price": 3.79,
+    "size": "350g",
+    "description": "Salt Fish Fritters",
+    "category": "Pantry",
+    "inStock": false
+  }
+]
