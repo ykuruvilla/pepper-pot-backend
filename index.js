@@ -9,10 +9,6 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.status(200).send("<h1> Server Is Up and Running!");
-});
-
 app.use("/products", productRouter);
 
 app.listen(PORT, () => {

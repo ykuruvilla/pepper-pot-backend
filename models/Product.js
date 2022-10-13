@@ -12,17 +12,19 @@ class Product {
     this.inStock = inStock;
   }
 
-  static getProductData = () => {
+  static getAllProducts = () => {
     return productData;
   };
 
   static getProductsByCategory = (category) => {
-    return this.getProductData().filter(
-      (product) => product.category === category
+    return this.getAllProducts().filter(
+      (product) => product.category.toLowerCase() === category.toLowerCase()
     );
   };
 
   static getProductById = (id) => {
-    return this.getProductData().find((product) => product.id === id);
+    return this.getAllProducts().find((product) => product.id === id);
   };
 }
+
+module.exports = Product;
